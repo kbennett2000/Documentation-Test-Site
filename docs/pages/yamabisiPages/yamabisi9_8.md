@@ -56,6 +56,6 @@
 - [Putting my $800 Knockoff Yamaha Outboard to the Test! (4 Stroke)](https://youtu.be/3c4AFWsOIFc?si=NuwgcWW56cy5Iu7s)
 
 
-
-
-Go back [home](../../README.md)
+## Links:
+- See all the [Yamabisi clones](./yamabisiPages/yamabisiMotorsList.md)
+- Go back [home](../../README.md)
