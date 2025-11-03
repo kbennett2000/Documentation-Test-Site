@@ -1,6 +1,6 @@
-# pagesSiteTemplate
+# A Test Documentation Site
 
-## This is a template for a Pages Site
+## This is a test for a simple markdown docs site using GitHub Pages
 
 ### This is the landing page for the site!
 
