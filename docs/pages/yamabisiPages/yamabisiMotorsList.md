@@ -31,5 +31,5 @@ The **only notable exception** is the **9.8HP model** (confirmed as a **Tohatsu 
 | 300HP / F300XCB2                | 4-Stroke    | Yamaha F300                                   |
 
 
-#Links:
+## Links:
 - Go back [home](../../README.md)
