@@ -19,9 +19,11 @@ The **only notable exception** is the **9.8HP model** (confirmed as a **Tohatsu 
   <tbody>
     <tr><td>4HP</td><td style="text-align: center;">4-Stroke</td><td>Yamaha F4</td></tr>
     <tr><td>6HP</td><td style="text-align: center;">4-Stroke</td><td>Yamaha F6</td></tr>
-    <tr><td>8HP</td><td style="text-align: center;">4-Stroke</td><td>Yamaha F8</td></tr>
-    <tr><td><a href="./yamabisi9_8.html">9.8HP</a></td><td style="text-align: center;">4-Stroke</td><td>Tohatsu MFS9.8</td></tr>
-    <tr><td><a href="./yamabisi9_9.html">9.9HP</a></td><td style="text-align: center;">4-Stroke</td><td>Yamaha F9.9</td></tr>
+    <tr><td>8HP</td><td style="text-align: center;">4-Stroke</td><td>Yamaha F8</td></tr>    
+    <tr><td><a href="./yamabisi9_8.md">9.8HP</a></td><td style="text-align: center;">4-Stroke</td><td>Tohatsu MFS9.8</td></tr>
+    <tr><td><a href="./yamabisi9_9.md">9.9HP</a></td><td style="text-align: center;">4-Stroke</td><td>Yamaha F9.9</td></tr>
+    <tr><td>[9.8HP](./yamabisi9_8.md)</td><td style="text-align: center;">4-Stroke</td><td>Tohatsu MFS9.8</td></tr>
+    <tr><td>[9.9HP](./yamabisi9_9.md)</td><td style="text-align: center;">4-Stroke</td><td>Yamaha F9.9</td></tr>
     <tr><td>15HP</td><td style="text-align: center;">2-Stroke</td><td>Yamaha 15HP (older 2-stroke series)</td></tr>
     <tr><td>15HP (Short Shaft)</td><td style="text-align: center;">4-Stroke</td><td>Yamaha F15 / 6B4</td></tr>
     <tr><td>20HP</td><td style="text-align: center;">4-Stroke</td><td>Yamaha F20</td></tr>
