@@ -1,3 +1,6 @@
+---
+---
+
 # Yamabisi 9.9 hp Outboard
 
 ## Yamabisi 9.9hp Stats:
