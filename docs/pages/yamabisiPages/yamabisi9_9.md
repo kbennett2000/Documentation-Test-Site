@@ -3,7 +3,7 @@
 ## Yamabisi 9.9hp Stats:
 ![Yamabisi 9.9hp stats](../../images/yamabisiImages/yamabisi9_9_stats.jpg "Yamabisi 9.9hp stats")
 
-## Clone of Yamaha 9.9
+## Clone of Yamaha F9.9
 
 ## Videos:
 ### Luke McFadden (YouTube)
