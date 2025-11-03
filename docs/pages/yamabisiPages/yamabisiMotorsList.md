@@ -13,7 +13,7 @@ The **only notable exception** is the **9.8HP model** (confirmed as a **Tohatsu 
 | 6HP                             | 4-Stroke    | Yamaha F6                                     |
 | 8HP                             | 4-Stroke    | Yamaha F8                                     |
 | [9.8HP](./yamabisi9_8.md)                           | 4-Stroke    | Tohatsu MFS9.8                                |
-| 9.9HP                           | 4-Stroke    | Yamaha F9.9                                   |
+| [9.9HP](./yamabisi9_9.md)                           | 4-Stroke    | Yamaha F9.9                                   |
 | 15HP                            | 2-Stroke    | Yamaha 15HP (older 2-stroke series)           |
 | 15HP (Short Shaft)              | 4-Stroke    | Yamaha F15 / 6B4                              |
 | 20HP                            | 4-Stroke    | Yamaha F20                                    |
