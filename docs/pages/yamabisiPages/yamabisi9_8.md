@@ -57,5 +57,5 @@
 
 
 ## Links:
-- See all the [Yamabisi clones](./yamabisiPages/yamabisiMotorsList.md)
+- See all the [Yamabisi clones](./yamabisiMotorsList.md)
 - Go back [home](../../README.md)
