@@ -1,5 +1,7 @@
 # Crawfishing
 
+![Carwfish](../../images/crawfishing/crawfish.jpg "Crawfish")
+
 ## Crawfishing Resources
 
 - [FAQ](./crawfishingFAQ.md)
