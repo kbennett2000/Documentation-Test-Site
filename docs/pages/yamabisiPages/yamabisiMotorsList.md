@@ -1,13 +1,12 @@
 # Yamabisi Clone List
 
-## Overview
+## Overview:
 The majority of **Yamabisi** outboard motors are **clones of older Yamaha designs**, with high parts compatibility, similar specs (e.g., displacement, RPM ranges, and gear ratios). 
 
-## Exceptions
+## Exceptions:
 The **only notable exception** is the **9.8HP model** (confirmed as a **Tohatsu clone**). The **9.9HP**, however, aligns with **Yamaha**. 
 
-
-## List of Yamabisi Clone Motors
+## List of Yamabisi Clone Motors:
 | Yamabisi Model/HP               | Stroke Type | Cloned From (Major Brand Model)               |
 |---------------------------------|-------------|-----------------------------------------------|
 | 4HP                             | 4-Stroke    | Yamaha F4                                     |
@@ -30,3 +29,7 @@ The **only notable exception** is the **9.8HP model** (confirmed as a **Tohatsu 
 | 85HP                            | 2-Stroke    | Yamaha 85HP (older 2-stroke series)           |
 | 115HP / VF115XA                 | 4-Stroke    | Yamaha VF115 (VMAX SHO series)                |
 | 300HP / F300XCB2                | 4-Stroke    | Yamaha F300                                   |
+
+
+#Links:
+- Go back [home](../../README.md)
